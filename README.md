@@ -9,7 +9,7 @@
 ![Waka Readme](https://github.com/flashaholic88/flashaholic88/workflows/Waka%20Readme/badge.svg)
 <!-- <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const flashaholic = {
