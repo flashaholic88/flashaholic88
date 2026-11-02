@@ -1,19 +1,54 @@
-# 💫 About Me:
-Operations Specialist at a Automobile company<br>Living in Erfurt, Germany<br>Currently learning C++<br>Speaking German and English<br>Feel free to contact me about anything
+<h2> I'm Robert <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=flashaholic88&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=flashaholic88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=flashaholic88&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/flashaholic88?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=flashaholic88.flashaholic88)
+![Waka Readme](https://github.com/flashaholic88/flashaholic88/workflows/Waka%20Readme/badge.svg)
+<!-- <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=flashaholic88&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=flashaholic88&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```javascript
+const flashaholic = {
+  name: "Robert",
+  pronouns: ["he", "him"],
+  languages: ["C++", "Rust", "QML"],
+  askMeAbout: [
+    "just a person with interest on dev/technicals",
+ ],
+
+    devOps: {
+      tools: ["GitHub Actions"],
+      },
+
+    databases: {
+      relational: ["MySQL"],
+    },
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+],
+
+      models: ["Qwen", "Claude", "Llama"]
+},
+
+currentFocus:"Expanding the Code of a Rust, QML & C++ Application",
+funFact: "Most bugs disappear after a coffee and a clean commit history"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-[![](https://komarev.com/ghpvc/?username=flashaholic88&icon=0&color=1)](https://visitcount.itsvg.in)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
