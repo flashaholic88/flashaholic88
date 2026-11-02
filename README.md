@@ -1,5 +1,4 @@
-<div align="center">
-  <h2> I'm Robert <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> I'm Robert <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/flashaholic88?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=flashaholic88.flashaholic88)
@@ -118,4 +117,3 @@ Text                     1 repo              █████░░░░░░�
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-</div>
