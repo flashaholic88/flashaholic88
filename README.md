@@ -40,7 +40,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue?style=flat)
 
@@ -85,13 +85,15 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      57 mins             ███████████████░░░░░░░░░░   60.94 % 
+QML                      37 mins             ██████████░░░░░░░░░░░░░░░   38.95 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +113,7 @@ Text                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 04/11/2026 05:55:00 UTC
+ Last Updated on 04/11/2026 06:30:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
