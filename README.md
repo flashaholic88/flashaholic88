@@ -5,6 +5,14 @@
 ![Waka Readme](https://github.com/flashaholic88/flashaholic88/workflows/Waka%20Readme/badge.svg)
 <!-- <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> -->
 
+<div>My GitHub Contributions</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flashaholic88/flashaholic88/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flashaholic88/flashaholic88/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flashaholic88/flashaholic88/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
 A little more about me...  
 
 ```javascript
