@@ -48,17 +48,17 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-214-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 28 Bytes Used in GitHub's Storage 
+> 📦 29 Bytes Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -95,33 +95,34 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      3 hrs 34 mins       █████████████░░░░░░░░░░░░   50.63 % 
-QML                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+C++                      5 hrs 31 mins       ██████████████░░░░░░░░░░░   57.90 % 
+QML                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         ██████████████░░░░░░░░░░░   56.99 % 
-Copilot CLI              2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Unknown Editor           58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+VS Code                  4 hrs 51 mins       █████████████░░░░░░░░░░░░   50.87 % 
+Copilot CLI              2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Unknown Editor           2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+VSCodium                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 💻 Operating System: 
-Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (63.92%)
+⏱ AI Coding Time: 6 hrs 31 mins (68.25%)
 
-✍️ 640 lines written by AI, 177 lines written by hand (78.34% AI-written)
+✍️ 640 lines written by AI, 218 lines written by hand (74.59% AI-written)
 
 🔤 1,230,912 Input Tokens, 104,143 Output Tokens
 
 💵 $0.55 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 48 AI Prompts
+🧠 26 AI Sessions, 127 AI Prompts
 
 GPT                      873 lines           █████████████████████████   100.00 % 
 Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -129,10 +130,10 @@ Cline-Cli                0 lines             ░░░░░░░░░░░�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.34% of written lines came from AI
-📚 Verbose Prompter — average 2,800 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 19.24% of changed lines were hand-edited
+🤖 AI-Driven — 74.59% of written lines came from AI
+📚 Verbose Prompter — average 2,949 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 22.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -146,7 +147,7 @@ Text                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 07/11/2026 05:40:27 UTC
+ Last Updated on 08/11/2026 05:42:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
