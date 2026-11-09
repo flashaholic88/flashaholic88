@@ -48,19 +48,17 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-214-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-217-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 29 Bytes Used in GitHub's Storage 
- > 
-> 🏆 32 Contributions in the Year 2026
+> 📦 30 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,26 +93,26 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      5 hrs 31 mins       ██████████████░░░░░░░░░░░   57.90 % 
-QML                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C++                      5 hrs 39 mins       ███████████████░░░░░░░░░░   58.44 % 
+QML                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████░░░░░░░░░░░░   50.87 % 
-Copilot CLI              2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Unknown Editor           2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-VSCodium                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+VS Code                  4 hrs 51 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Unknown Editor           2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Copilot CLI              2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+VSCodium                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 💻 Operating System: 
-Windows                  9 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 31 mins (68.25%)
+⏱ AI Coding Time: 6 hrs 38 mins (68.65%)
 
 ✍️ 640 lines written by AI, 218 lines written by hand (74.59% AI-written)
 
@@ -122,7 +120,7 @@ Windows                  9 hrs 33 mins       ███████████�
 
 💵 $0.55 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 127 AI Prompts
+🧠 28 AI Sessions, 142 AI Prompts
 
 GPT                      873 lines           █████████████████████████   100.00 % 
 Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -131,7 +129,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 74.59% of written lines came from AI
-📚 Verbose Prompter — average 2,949 characters per prompt
+📚 Verbose Prompter — average 2,840 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 22.26% of changed lines were hand-edited
 ```
@@ -147,7 +145,7 @@ Text                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 08/11/2026 05:42:43 UTC
+ Last Updated on 09/11/2026 05:52:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
