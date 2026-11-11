@@ -52,7 +52,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-217-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-221-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -95,28 +95,28 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      5 hrs 39 mins       ███████████████░░░░░░░░░░   58.44 % 
-QML                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+C++                      5 hrs 1 min         ███████████████░░░░░░░░░░   59.59 % 
+Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+QML                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████░░░░░░░░░░░░   50.27 % 
-Unknown Editor           2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Copilot CLI              2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-VSCodium                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+VS Code                  3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
+Unknown Editor           2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Copilot CLI              2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+VSCodium                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Operating System: 
-Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (68.65%)
+⏱ AI Coding Time: 6 hrs 38 mins (78.77%)
 
-✍️ 640 lines written by AI, 218 lines written by hand (74.59% AI-written)
+✍️ 640 lines written by AI, 110 lines written by hand (85.33% AI-written)
 
 🔤 1,230,912 Input Tokens, 104,143 Output Tokens
 
@@ -130,10 +130,10 @@ Cline-Cli                0 lines             ░░░░░░░░░░░�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.59% of written lines came from AI
+🤖 AI-Driven — 85.33% of written lines came from AI
 📚 Verbose Prompter — average 2,840 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.26% of changed lines were hand-edited
+🚀 High AI Trust — 12.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -147,7 +147,7 @@ Text                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 10/11/2026 06:58:09 UTC
+ Last Updated on 11/11/2026 05:48:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
