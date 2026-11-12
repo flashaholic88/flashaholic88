@@ -48,17 +48,17 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-221-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 30 Bytes Used in GitHub's Storage 
+> 📦 31 Bytes Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -95,59 +95,56 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      5 hrs 1 min         ███████████████░░░░░░░░░░   59.59 % 
-Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-QML                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+C++                      4 hrs 17 mins       ████████████████░░░░░░░░░   64.99 % 
+Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+CMake                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
-Unknown Editor           2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Copilot CLI              2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-VSCodium                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+VS Code                  2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
+Unknown Editor           2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Copilot CLI              1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+VSCodium                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (78.77%)
+⏱ AI Coding Time: 5 hrs 36 mins (84.82%)
 
-✍️ 640 lines written by AI, 110 lines written by hand (85.33% AI-written)
+✍️ 554 lines written by AI, 79 lines written by hand (87.52% AI-written)
 
-🔤 1,230,912 Input Tokens, 104,143 Output Tokens
+🔤 1,568,796 Input Tokens, 241,762 Output Tokens
 
-💵 $0.55 Estimated AI Cost This Week
+💵 $0.39 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 142 AI Prompts
+🧠 26 AI Sessions, 134 AI Prompts
 
-GPT                      873 lines           █████████████████████████   100.00 % 
-Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      557 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.33% of written lines came from AI
-📚 Verbose Prompter — average 2,840 characters per prompt
+🤖 AI-Driven — 87.52% of written lines came from AI
+📚 Verbose Prompter — average 2,962 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.08% of changed lines were hand-edited
+🚀 High AI Trust — 12.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Shell                    2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Text                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Shell                    2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 
 
 
- Last Updated on 11/11/2026 05:48:51 UTC
+ Last Updated on 12/11/2026 06:54:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
