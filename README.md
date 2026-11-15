@@ -95,39 +95,36 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      2 hrs 33 mins       █████████████████████░░░░   82.82 % 
-YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C++                      32 mins             █████████████████████████   99.13 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.83 % 
-Unknown Editor           1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.70 % 
-VSCodium                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+VS Code                  19 mins             ██████████████░░░░░░░░░░░   56.04 % 
+Unknown Editor           15 mins             ███████████░░░░░░░░░░░░░░   43.96 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 16 mins (73.5%)
+⏱ AI Coding Time: 12 mins (37.21%)
 
-✍️ 0 lines written by AI, 79 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 38 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 101 AI Prompts
+🧠 3 AI Sessions, 20 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,820 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,922 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -141,7 +138,7 @@ Shell                    2 repos             ███████████�
 
 
 
- Last Updated on 14/11/2026 05:58:18 UTC
+ Last Updated on 15/11/2026 06:00:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
