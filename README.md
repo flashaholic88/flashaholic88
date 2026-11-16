@@ -58,7 +58,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 **🐱 My GitHub Data** 
 
-> 📦 23 Bytes Used in GitHub's Storage 
+> 📦 24 Bytes Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -95,37 +95,21 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      32 mins             █████████████████████████   99.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+C++                      20 mins             █████████████████████████   98.61 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  19 mins             ██████████████░░░░░░░░░░░   56.04 % 
-Unknown Editor           15 mins             ███████████░░░░░░░░░░░░░░   43.96 % 
+VS Code                  19 mins             █████████████████████░░░░   83.02 % 
+Unknown Editor           3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (37.21%)
-
-✍️ 0 lines written by AI, 38 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 20 AI Prompts
-
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,922 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -138,7 +122,7 @@ Shell                    2 repos             ███████████�
 
 
 
- Last Updated on 15/11/2026 06:00:35 UTC
+ Last Updated on 16/11/2026 05:59:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
