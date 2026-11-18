@@ -58,7 +58,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 **🐱 My GitHub Data** 
 
-> 📦 24 Bytes Used in GitHub's Storage 
+> 📦 25 Bytes Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -95,15 +95,13 @@ Sunday                   16 commits          ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C++                      20 mins             █████████████████████████   98.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████░░░░   83.02 % 
-Unknown Editor           3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Unknown Editor           3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,7 +120,7 @@ Shell                    2 repos             ███████████�
 
 
 
- Last Updated on 17/11/2026 07:38:35 UTC
+ Last Updated on 18/11/2026 07:00:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
